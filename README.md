@@ -17,3 +17,7 @@ problems, and it also improves code readability for coders and architects who
 are familiar with the patterns.
 
 Original rep is from [iluwatar](https://github.com/iluwatar/java-design-patterns).
+
+# Design patterns implemented in C++
+
+For Chinese version, see [Design Pattern](http://design-patterns.readthedocs.io/zh_CN/latest/index.html).
