@@ -14,7 +14,7 @@ development paradigms.
 
 Reusing design patterns helps to prevent subtle issues that can cause major
 problems, and it also improves code readability for coders and architects who
-are familiar with the patterns.
+are familiar with the pattern.
 
 Original rep is from [iluwatar](https://github.com/iluwatar/java-design-patterns).
 
